@@ -1,0 +1,19 @@
+*{
+    background-color: aliceblue;
+}
+.circle{
+    height: 300px;
+    width: 400px;
+    background-color: red;
+    margin-left: 35%;
+ 
+    
+}
+.mainbox{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    transform: translate(580px,240px);
+   border-radius: 50%;
+}
+  
